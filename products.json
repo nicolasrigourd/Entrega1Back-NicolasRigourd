@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1",
+    "description": "Descripción del producto",
+    "code": "COD123",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "images/imagen1.jpg"
+    ]
+  }
+]
