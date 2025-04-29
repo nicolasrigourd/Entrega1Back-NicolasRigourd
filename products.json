@@ -1,15 +1,142 @@
 [
   {
     "id": 1,
-    "title": "Producto 1",
-    "description": "Descripción del producto",
-    "code": "COD123",
-    "price": 100,
+    "title": "Smartphone X",
+    "description": "Celular de última generación con pantalla AMOLED",
+    "code": "SPX123",
+    "price": 899,
     "status": true,
-    "stock": 10,
+    "stock": 15,
     "category": "Electrónica",
     "thumbnails": [
-      "images/imagen1.jpg"
+      "https://picsum.photos/200/300?random=1"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Laptop Pro",
+    "description": "Portátil ultradelgado con procesador i7",
+    "code": "LP200",
+    "price": 1299,
+    "status": true,
+    "stock": 8,
+    "category": "Computación",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=2"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Auriculares Inalámbricos",
+    "description": "Audio de alta fidelidad con cancelación de ruido",
+    "code": "AI456",
+    "price": 199,
+    "status": true,
+    "stock": 20,
+    "category": "Audio",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch Fit",
+    "description": "Reloj inteligente con monitoreo de actividad física",
+    "code": "SW789",
+    "price": 250,
+    "status": true,
+    "stock": 12,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=4"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cámara 4K",
+    "description": "Captura de video en ultra alta definición",
+    "code": "CAM001",
+    "price": 499,
+    "status": true,
+    "stock": 5,
+    "category": "Fotografía",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=5"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tablet Pro",
+    "description": "Pantalla táctil de alta resolución con stylus",
+    "code": "TB555",
+    "price": 699,
+    "status": true,
+    "stock": 10,
+    "category": "Computación",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=6"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Teclado Mecánico RGB",
+    "description": "Teclado con retroiluminación personalizable",
+    "code": "TKRGB202",
+    "price": 120,
+    "status": true,
+    "stock": 18,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=7"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Monitor UltraWide",
+    "description": "Pantalla de 34'' con resolución QHD",
+    "code": "MONU900",
+    "price": 850,
+    "status": true,
+    "stock": 6,
+    "category": "Computación",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=8"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Silla Gamer",
+    "description": "Diseño ergonómico con soporte lumbar",
+    "code": "SG500",
+    "price": 280,
+    "status": true,
+    "stock": 15,
+    "category": "Muebles",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=9"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Mouse Gaming",
+    "description": "Sensor óptico de alta precisión",
+    "code": "MG800",
+    "price": 75,
+    "status": true,
+    "stock": 25,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=10"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Nuevo Producto",
+    "description": "Descripción de prueba",
+    "price": 500,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://picsum.photos/200/300?random=12"
     ]
   }
 ]
